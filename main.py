@@ -2,4 +2,6 @@ def main():  # jfhkd
     print('My first git program')
 
 
-main()
+if __name__ == '__main__':
+    main()
+# EEEEEEEEEEEEEEEEEE
